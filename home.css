@@ -12,6 +12,20 @@
     position: relative;
     padding-right: 250px !important;
 }
+
+.aicon{
+    position: relative;
+    top: 8px;
+}
+
+.logo{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    object-fit: contain;
+    top: 0;
+}
+
 .icons .bi{
     padding: 13px !important;
 }
@@ -862,4 +876,4 @@ ul {
      cursor: pointer; 
    }
    
- }
+ 
